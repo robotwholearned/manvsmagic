@@ -1,24 +1,24 @@
-/* line 1, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 1, /Users/cassandrasandquist/Documents/manvsmagic/source/stylesheets/application.css.scss */
 h1 {
   text-align: center; }
 
-/* line 2, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 2, /Users/cassandrasandquist/Documents/manvsmagic/source/stylesheets/application.css.scss */
 body {
   margin-left: auto;
   margin-right: auto;
   font-family: arial; }
 
-/* line 3, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 3, /Users/cassandrasandquist/Documents/manvsmagic/source/stylesheets/application.css.scss */
 img {
   display: block;
   margin-left: auto;
   margin-right: auto; }
 
-/* line 4, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 4, /Users/cassandrasandquist/Documents/manvsmagic/source/stylesheets/application.css.scss */
 .pagination {
   text-align: center; }
 
-/* line 5, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 5, /Users/cassandrasandquist/Documents/manvsmagic/source/stylesheets/application.css.scss */
 .contact {
   float: right;
   padding-right: 20px;
