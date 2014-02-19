@@ -1,6 +1,6 @@
 ---
-title: JobHunt
+title: Job Hunt
 date: 2014-02-16 07:25 UTC
 tags:
 ---
-<img src="/images/Job-Hunt-ManvsMagic.png" alt="Job Hunt" />
+<img src="/images/Job-Hunt-ManVsMagic.png" alt="Job Hunt" />
