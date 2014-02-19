@@ -5,20 +5,27 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-02-19T03:54:00Z</updated>
+  <updated>2014-02-13T22:54:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>First Comic</title>
-    <link rel="alternate" href="http://blog.url.com/2014/02/19/first-comic.html"/>
-    <id>http://blog.url.com/2014/02/19/first-comic.html</id>
-    <published>2014-02-19T03:54:00Z</published>
-    <updated>2014-02-18T20:55:04-07:00</updated>
+    <title>Feeling It</title>
+    <link rel="alternate" href="http://blog.url.com/2014/02/13/feeling-it-comic.html"/>
+    <id>http://blog.url.com/2014/02/13/feeling-it-comic.html</id>
+    <published>2014-02-13T22:54:00Z</published>
+    <updated>2014-02-19T00:00:14-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;People are stupid.&lt;/p&gt;
+    <content type="html">&lt;p&gt;&amp;lt;% content&lt;em&gt;for :script do %&amp;gt;
+  &lt;script&gt;alert(&amp;#39;You are not authorized to view this page!&amp;#39;)&lt;/script&gt;
+&amp;lt;% end %&amp;gt;
+&amp;lt;% content&lt;/em&gt;for :blog_post do %&amp;gt;
+This is an example article. You probably want to delete it and write your own articles!
+People are stupid.
+&lt;img src="/images/Feeling-it-ManVsMagic.png" alt="FeelingIt" /&gt;
+&amp;lt;% end %&amp;gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -26,11 +33,12 @@
     <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article.html"/>
     <id>http://blog.url.com/2012/01/01/example-article.html</id>
     <published>2012-01-01T00:00:00Z</published>
-    <updated>2014-02-18T20:46:45-07:00</updated>
+    <updated>2014-02-18T23:50:53-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!
+This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -38,7 +46,7 @@
     <link rel="alternate" href="http://blog.url.com/2011/10/18/middleman.html"/>
     <id>http://blog.url.com/2011/10/18/middleman.html</id>
     <published>2011-10-18T00:00:00Z</published>
-    <updated>2014-02-18T20:53:53-07:00</updated>
+    <updated>2014-02-18T23:50:39-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
