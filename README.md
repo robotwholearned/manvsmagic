@@ -9,9 +9,7 @@ If you don't have middleman installed:
 	`gem install middleman`
 
 When I first ran this cmd I got: 
-	| `gem install middleman` | Fetching: bundler-1.5.3.gem (100%)
-				        ERROR:  While executing gem ... (Gem::FilePermissionError)
-				        You don't have write permissions for the /Library/Ruby/Gems/2.0.0 directory. |
+	| `gem install middleman` | Fetching: bundler-1.5.3.gem (100%) ERROR:  While executing gem ... (Gem::FilePermissionError) You don't have write permissions for the /Library/Ruby/Gems/2.0.0 directory. |
 
 Which means that I was on a computer (duh) that only had Apple's Ruby installed, so I installed RVM https://rvm.io/rvm/install :
 (the slash in front is important, you can remove the --trace, i just like knowing all the information if something goes wrong, which it inevitably does)
