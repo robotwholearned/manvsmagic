@@ -1,36 +1,5 @@
-$bright-highlight: #FF0000;
-nav
-{ 
-	/*position: absolute;*/ 
-	left: 0px; 
-	height: 156px; 
-	width: 658px; 
-	background-image: url('../images/Man-vs-Magic-banner.png'); 
-	background-repeat: no-repeat; 
-	background-size: 100% 100%; 
-	background-color: white; 
-	z-index: 1; 
-}
 h1{text-align: center;}
-h2 
-{ 
-	color: $bright-highlight; 
-}
-
-footer 
-{
-	width: 100%; 
-	float:left; 
-	border: 1px solid $bright-highlight; 
-}
-
-#main
-{
-	float:left; 
-	border: 1px solid $bright-highlight;
-}
-
-.pagination 
-{
-	text-align: center; 
-}
+body{margin-left: auto;margin-right: auto; font-family: arial;}
+img{display: block;margin-left: auto;margin-right: auto;}
+.pagination {text-align: center; }
+.contact{float: right; padding-right: 20px; padding-bottom: 10px;}

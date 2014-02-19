@@ -2,28 +2,20 @@
 pageable: true
 per_page: 1
 ---
+<% page_articles.each_with_index do |article, i| %>
+<h1><%= article.title %>  <span> - <%= article.date.strftime('%b %e, %Y') %></span></h1>
 <div class="pagination">
 <% if paginate && num_pages > 1 %>
-  <% if prev_page %><%= link_to 'Previous page', prev_page %><% end %>
-  Page <%= page_number %> of <%= num_pages %>
-    <% if next_page %><%= link_to 'Next page', next_page %><% end %>
+  <%= link_to 'Previous', next_page %>
+  <%= link_to 'Next', prev_page %>
 <% end %>
 </div>
-
-<% page_articles.each_with_index do |article, i| %>
-<h1><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e, %Y') %></span></h1>
 <%= article.body %>
 <% end %>
 
 <div class="pagination">
 <% if paginate && num_pages > 1 %>
-  <% if prev_page %>
-    <%= link_to 'Previous page', prev_page%>
-    
-  <% end %>
-  Page <%= page_number %> of <%= num_pages %>
-  <% if next_page %>
-    <%= link_to 'Next page', next_page %>
-  <% end %>
+    <%= link_to 'Previous', next_page %>
+    <%= link_to 'Next', prev_page%>
 <% end %>
 </div>

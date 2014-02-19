@@ -1,45 +1,19 @@
-/*@import "bootstrap";*/
-/*@import "bootstrap/theme";*/
-/*@import "normalize";*/
-/* line 9, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
-h2 {
-  color: red; }
-
-/* line 10, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
-#main {
-  float: left;
-  border: 1px solid red; }
-
-/* line 15, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
-nav {
-  /*position: absolute;*/
-  left: 0px;
-  height: 156px;
-  width: 658px;
-  background-image: url("../images/Man-vs-Magic-banner.png");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  background-color: white;
-  z-index: 1; }
-
-/* line 27, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
-nav a {
-  width: 658px;
-  height: 156px; }
-
-/* line 32, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
-.pagination {
-  background-color: red;
+/* line 1, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+h1 {
   text-align: center; }
 
-/*
-aside 
-{
-	border: 1px solid $bright-highlight;
-	float: right;
-}*/
-/* line 43, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
-footer {
-  width: 100%;
-  float: left;
-  border: 1px solid red; }
+/* line 2, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+body {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: arial; }
+
+/* line 3, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+/* line 4, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+.pagination {
+  text-align: center; }
