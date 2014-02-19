@@ -20,14 +20,23 @@ You don't have write permissions for the /Library/Ruby/Gems/2.0.0 directory.
 
 Which means that I was on a computer (duh) that only had Apple's Ruby installed, so I installed RVM https://rvm.io/rvm/install :
 (the slash in front is important, you can remove the --trace, i just like knowing all the information if something goes wrong, which it inevitably does)
+
 	`\curl -sSL https://get.rvm.io | bash -s -- --trace`
+	
 After you either have to restart terminal or run source (doesn't matter which)
+
 	`source ~/.rvm/scripts/rvm`
+	
 check if everything went okay:
+
 	`type rvm | head -n 1`
-	should return "rvm is a function"
+	
+should return "rvm is a function"
+
 and you are finally ready to actually install middleman:
+
 	`gem install middleman`
+	
 Oh man I still get the same permission error, so i  check what version of ruby I am using:
 	 `ruby -v`
 	ruby 2.0.0p247 (2013-06-27 revision 41674) [universal.x86_64-darwin13]
