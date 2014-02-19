@@ -1,2 +1,40 @@
-@import "bootstrap";
+/*@import "bootstrap";*/
 /*@import "bootstrap/theme";*/
+
+/*@import "normalize";*/
+
+$bright-highlight: #FF0000;
+
+h2 { color: $bright-highlight; }
+#main{
+	float:left;
+	border: 1px solid $bright-highlight;
+}
+nav
+{
+	/*position: absolute;*/
+	left: 0px;
+	height: 156px;
+	width: 658px;
+	background-image: url('../images/Man-vs-Magic-banner.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-color: white;
+	z-index: 1;
+}
+nav a
+{	
+	width:658px;
+	height: 156px;
+}
+aside 
+{
+	border: 1px solid $bright-highlight;
+	float: right;
+}
+footer
+{
+	width: 100%;
+	float:left;
+	border: 1px solid $bright-highlight;
+}
