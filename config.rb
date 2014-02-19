@@ -3,16 +3,20 @@
 ###
 
 # Time.zone = "UTC"
-
+set :markdown_engine, :redcarpet 
+set :markdown, :fenced_code_blocks => true , 
+    :smartypants => true , 
+    :autolink => true 
+activate :syntax
+activate :directory_indexes
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
 
-  # blog.permalink = "{year}/{month}/{day}/{title}.html"
-  # Matcher for blog source files
-  # blog.sources = "{year}-{month}-{day}-{title}.html"
+  blog.permalink = "{year}/{month}/{day}/{title}.html"
+  blog.layout = "layout"
+  blog.sources = "blog/{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
-  # blog.layout = "layout"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
   # blog.year_link = "{year}.html"

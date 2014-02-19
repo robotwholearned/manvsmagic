@@ -9,3 +9,6 @@ gem "middleman-blog", "~> 3.5.1"
 gem "builder", "~> 3.0"
 
 gem "bootstrap-sass", require: false
+
+gem "redcarpet" 
+gem "middleman-syntax"
