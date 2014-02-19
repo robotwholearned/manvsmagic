@@ -51,7 +51,7 @@ So turns out it is because I didn't actually tell rvm to use any different ruby,
 	
 	`rvm get stable --ruby`
 	
-use the updated rvm (not nessaarcy, because it was already installed, but just in case)	
+use the updated rvm (not necessary, because it was already installed, but just in case)	
 
 	` ~/.rvm/scripts/rvm`
 	
