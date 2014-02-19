@@ -1,0 +1,6 @@
+---
+title: Officer
+date: 2014-02-17 07:24 UTC
+tags:
+---
+<img src="/images/Officer-ManVsMagic.png" alt="Officer" />
