@@ -1,7 +1,0 @@
-<article class="blog-post">
-  <h1><%= current_page.data.subtitle%> </h1>
-  <%= yield :script %>
-  <hr/>
-  <%= content_for?(:blog_post) ? yield(:blog_post) : yield %>
-  <hr/>
-</article>
