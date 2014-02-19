@@ -28,11 +28,17 @@ nav a {
   height: 156px; }
 
 /* line 32, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
-aside {
-  border: 1px solid red;
-  float: right; }
+.pagination {
+  background-color: red;
+  text-align: center; }
 
-/* line 37, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/*
+aside 
+{
+	border: 1px solid $bright-highlight;
+	float: right;
+}*/
+/* line 43, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 footer {
   width: 100%;
   float: left;
