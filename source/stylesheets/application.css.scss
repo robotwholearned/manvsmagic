@@ -1,7 +1,11 @@
 @import "font-awesome";
 h1{text-align: center;}
 body{margin-left: auto;margin-right: auto; font-family: arial;}
+#main{margin-left: auto;margin-right: auto;}
 img{display: block;margin-left: auto;margin-right: auto;}
 .pagination {text-align: center; }
 .contact{float: right; padding:10px; text-decoration: none; color: black; font-size: 20px;}
 .navigation-arrows{text-decoration: none; color: black; font-size: 40px; padding-right: 50px;}
+.archive{display:block;text-align:center;}
+.archive a{text-decoration: none; color: black;}
+.archive a:hover{text-decoration: underline;};
