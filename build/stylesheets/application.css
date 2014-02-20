@@ -1744,16 +1744,21 @@ body {
   font-family: arial; }
 
 /* line 4, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+#main {
+  margin-left: auto;
+  margin-right: auto; }
+
+/* line 5, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 img {
   display: block;
   margin-left: auto;
   margin-right: auto; }
 
-/* line 5, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 6, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .pagination {
   text-align: center; }
 
-/* line 6, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 7, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .contact {
   float: right;
   padding: 10px;
@@ -1761,9 +1766,23 @@ img {
   color: black;
   font-size: 20px; }
 
-/* line 7, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 8, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .navigation-arrows {
   text-decoration: none;
   color: black;
   font-size: 40px;
   padding-right: 50px; }
+
+/* line 9, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+.archive {
+  display: block;
+  text-align: center; }
+
+/* line 10, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+.archive a {
+  text-decoration: none;
+  color: black; }
+
+/* line 11, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+.archive a:hover {
+  text-decoration: underline; }
