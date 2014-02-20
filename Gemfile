@@ -12,3 +12,5 @@ gem "bootstrap-sass", require: false
 
 gem "redcarpet" 
 gem "middleman-syntax"
+
+gem 'font-awesome-middleman'
