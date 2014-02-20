@@ -3,4 +3,4 @@ title: Getting Old Sucks
 date: 2014-02-15 07:24 UTC
 tags:
 ---
-<img src="/images/getting-old-sucks_ManVsMagic.png" alt="Getting Old Sucks" />
+<img src="/images/getting-old-sucks_manvsmagic.png" alt="Getting Old Sucks" />
