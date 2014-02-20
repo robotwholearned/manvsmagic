@@ -6,6 +6,8 @@
     <title>Man Vs Magic<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "application" %>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   </head>
   <body>
     <%= link_to image_tag("../images/banner_manvsmagic.png"), "/" %>
