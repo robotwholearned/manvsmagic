@@ -43,11 +43,10 @@ img
 }
 .contact
 { 
-	float: right; 
-	padding:10px; 
+	/*float: right; 
+	padding:10px; */
 	text-decoration: none; 
 	color: black; 
-	font-size: 20px; 
 }
 .navigation-arrows
 { 
@@ -112,4 +111,10 @@ img
 {
 	text-decoration: none; 
 	color: black;
+}
+footer > a
+{
+	float:right;
+	padding:10px;	
+	font-size: 20px; 
 }

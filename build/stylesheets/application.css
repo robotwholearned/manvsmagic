@@ -1733,32 +1733,33 @@
 .fa-plus-square-o:before {
   content: "\f196"; }
 
-/* line 2, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/*$primary-color: #333;*/
+/* line 20, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 h1 {
   text-align: center; }
 
-/* line 3, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 24, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 body {
   margin-left: auto;
   margin-right: auto;
-  font-family: arial; }
+  font-family: Arial, sans-serif; }
 
-/* line 4, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 30, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 #main {
   margin-left: auto;
   margin-right: auto; }
 
-/* line 5, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 35, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 img {
   display: block;
   margin-left: auto;
   margin-right: auto; }
 
-/* line 6, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 41, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .pagination {
   text-align: center; }
 
-/* line 7, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 45, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .contact {
   float: right;
   padding: 10px;
@@ -1766,23 +1767,77 @@ img {
   color: black;
   font-size: 20px; }
 
-/* line 8, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 53, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .navigation-arrows {
   text-decoration: none;
   color: black;
   font-size: 40px;
   padding-right: 50px; }
 
-/* line 9, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 60, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .archive {
   display: block;
   text-align: center; }
 
-/* line 10, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 65, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .archive a {
   text-decoration: none;
   color: black; }
 
-/* line 11, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 70, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .archive a:hover {
   text-decoration: underline; }
+
+/* line 73, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+#slideout {
+  position: fixed;
+  top: 40px;
+  left: 0;
+  width: 35px;
+  padding: 12px 0;
+  text-align: center;
+  background: #6DAD53;
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  /*@include border-radius(0 5px 5px 0);*/ }
+
+/* line 84, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+#slideout_inner {
+  position: fixed;
+  top: 40px;
+  left: -250px;
+  background: #6DAD53;
+  width: 200px;
+  padding: 25px;
+  height: 130px;
+  text-align: left;
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  /*@include border-radius(0 0 5px 0);*/ }
+
+/* line 96, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+#slideout_inner textarea {
+  width: 190px;
+  height: 100px;
+  margin-bottom: 6px; }
+
+/* line 101, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+#slideout:hover {
+  left: 250px; }
+
+/* line 104, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+#slideout:hover #slideout_inner {
+  left: 0; }
+
+/* line 108, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+.slideout-icon {
+  font-size: 30px; }
+
+/* line 112, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+.font-awesome-link {
+  text-decoration: none;
+  color: black; }
