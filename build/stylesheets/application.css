@@ -1761,34 +1761,33 @@ img {
 
 /* line 45, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .contact {
-  float: right;
-  padding: 10px;
+  /*float: right; 
+  padding:10px; */
   text-decoration: none;
-  color: black;
-  font-size: 20px; }
+  color: black; }
 
-/* line 53, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 52, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .navigation-arrows {
   text-decoration: none;
   color: black;
   font-size: 40px;
   padding-right: 50px; }
 
-/* line 60, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 59, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .archive {
   display: block;
   text-align: center; }
 
-/* line 65, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 64, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .archive a {
   text-decoration: none;
   color: black; }
 
-/* line 70, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 69, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .archive a:hover {
   text-decoration: underline; }
 
-/* line 73, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 72, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 #slideout {
   position: fixed;
   top: 40px;
@@ -1803,7 +1802,7 @@ img {
   transition-duration: 0.3s;
   /*@include border-radius(0 5px 5px 0);*/ }
 
-/* line 84, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 83, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 #slideout_inner {
   position: fixed;
   top: 40px;
@@ -1819,25 +1818,31 @@ img {
   transition-duration: 0.3s;
   /*@include border-radius(0 0 5px 0);*/ }
 
-/* line 96, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 95, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 #slideout_inner textarea {
   width: 190px;
   height: 100px;
   margin-bottom: 6px; }
 
-/* line 101, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 100, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 #slideout:hover {
   left: 250px; }
 
-/* line 104, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 103, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 #slideout:hover #slideout_inner {
   left: 0; }
 
-/* line 108, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 107, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .slideout-icon {
   font-size: 30px; }
 
-/* line 112, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+/* line 111, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
 .font-awesome-link {
   text-decoration: none;
   color: black; }
+
+/* line 116, /Users/cassandras/man_vs_magic/source/stylesheets/application.css.scss */
+footer > a {
+  float: right;
+  padding: 10px;
+  font-size: 20px; }
