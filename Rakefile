@@ -1,6 +1,6 @@
 SSH_USER = 'cassandras_manvsmagic'
 SSH_HOST = 'ssh.phx.nearlyfreespeech.net'
-SSH_DIR  = '/'
+SSH_DIR  = '/home/public/'
 
 desc "Build the website from source"
 task :build do
