@@ -5,16 +5,28 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-02-21T03:52:00Z</updated>
+  <updated>2014-02-22T01:26:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Face Your Fears</title>
+    <link rel="alternate" href="http://blog.url.com/2014/02/22/faceyourfears.html"/>
+    <id>http://blog.url.com/2014/02/22/faceyourfears.html</id>
+    <published>2014-02-22T01:26:00Z</published>
+    <updated>2014-02-21T18:32:03-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/face-your-fears_manvsmagic.png" alt="Face your Fears" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Verification</title>
     <link rel="alternate" href="http://blog.url.com/2014/02/21/verification.html"/>
     <id>http://blog.url.com/2014/02/21/verification.html</id>
     <published>2014-02-21T03:52:00Z</published>
-    <updated>2014-02-20T20:55:15-07:00</updated>
+    <updated>2014-02-21T18:24:06-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -67,18 +79,6 @@
       <name>Article Author</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/getting-old-sucks_manvsmagic.png" alt="Getting Old Sucks" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Granny's Wish</title>
-    <link rel="alternate" href="http://blog.url.com/2014/02/14/granny.html"/>
-    <id>http://blog.url.com/2014/02/14/granny.html</id>
-    <published>2014-02-14T07:24:00Z</published>
-    <updated>2014-02-19T17:32:14-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/grannys-wish_manvsmagic.png" alt="Granny's Wish" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
