@@ -4,3 +4,4 @@ date: 2014-03-04 04:26 UTC
 tags:
 ---
 
+<img src="/images/tuesdays_manvsmagic.png" alt="Tuesdays" />
