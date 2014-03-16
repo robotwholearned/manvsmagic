@@ -14,3 +14,5 @@ gem "redcarpet"
 gem "middleman-syntax"
 
 gem 'font-awesome-middleman'
+
+gem "middleman-livereload", "~> 3.1.0"
