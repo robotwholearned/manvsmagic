@@ -2,5 +2,6 @@
 title: Officer
 date: 2014-02-17 07:24 UTC
 tags:
+paginate_number: 5
 ---
 <img src="/images/officer_manvsmagic.png" alt="Officer" />

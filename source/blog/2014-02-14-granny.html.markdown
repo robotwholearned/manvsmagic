@@ -2,5 +2,6 @@
 title: Granny's Wish
 date: 2014-02-14 07:24 UTC
 tags:
+paginate_number: 2
 ---
 <img src="/images/grannys-wish_manvsmagic.png" alt="Granny's Wish" />

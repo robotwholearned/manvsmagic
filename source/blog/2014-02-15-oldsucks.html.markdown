@@ -2,5 +2,6 @@
 title: Getting Old Sucks
 date: 2014-02-15 07:24 UTC
 tags:
+paginate_number: 3
 ---
 <img src="/images/getting-old-sucks_manvsmagic.png" alt="Getting Old Sucks" />
