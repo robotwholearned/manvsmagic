@@ -1,6 +1,6 @@
 ---
 title: Getting Old Sucks
-date: 2014-02-15 07:24 UTC
+date: 2014-02-15 07:24 MST
 tags:
 ---
 <img src="/images/getting-old-sucks_manvsmagic.png" alt="Getting Old Sucks" />

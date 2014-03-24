@@ -1,6 +1,6 @@
 ---
 title: Face Your Fears
-date: 2014-02-22 01:26 UTC
+date: 2014-02-22 01:26 MST
 tags:
 ---
 

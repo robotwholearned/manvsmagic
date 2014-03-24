@@ -1,6 +1,6 @@
 ---
 title: Spoilers
-date: 2014-03-19 12:39 UTC
+date: 2014-03-19 12:39 MST
 tags:
 ---
 <img src="/images/spoilers_manvsmagic.png" alt="Spoiler alert" />
