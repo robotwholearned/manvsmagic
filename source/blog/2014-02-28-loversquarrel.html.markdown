@@ -1,6 +1,6 @@
 ---
 title: Lovers Quarrel
-date: 2014-02-28 07:22 MST
+date: 2014-02-28 07:22 MDT
 tags:
 ---
 

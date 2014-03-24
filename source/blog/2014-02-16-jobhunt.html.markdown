@@ -1,6 +1,6 @@
 ---
 title: Job Hunt
-date: 2014-02-16 07:25 MST
+date: 2014-02-16 07:25 MDT
 tags:
 ---
 <img src="/images/job-hunt_manvsmagic.png" alt="Job Hunt" />

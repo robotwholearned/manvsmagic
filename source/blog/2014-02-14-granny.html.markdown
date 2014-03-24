@@ -1,6 +1,6 @@
 ---
 title: Granny's Wish
-date: 2014-02-14 07:24 MST
+date: 2014-02-14 07:24 MDT
 tags:
 ---
 <img src="/images/grannys-wish_manvsmagic.png" alt="Granny's Wish" />

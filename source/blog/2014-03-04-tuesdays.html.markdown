@@ -1,6 +1,6 @@
 ---
 title: Tuesdays
-date: 2014-03-04 04:26 MST
+date: 2014-03-04 04:26 MDT
 tags:
 ---
 
