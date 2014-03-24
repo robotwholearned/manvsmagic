@@ -1,82 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog Name</title>
-  <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/</id>
-  <link href="http://blog.url.com/"/>
-  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <title>ManVsMagic</title>
+  <id>http://www.manvsmagic.com</id>
+  <link href="http://www.manvsmagic.com"/>
+  <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
   <updated>2014-03-19T12:39:00Z</updated>
   <author>
-    <name>Blog Author</name>
+    <name>ManVsMagic</name>
   </author>
   <entry>
     <title>Spoilers</title>
-    <link rel="alternate" href="http://blog.url.com/2014/03/19/spoilers.html"/>
-    <id>http://blog.url.com/2014/03/19/spoilers.html</id>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/19/spoilers.html"/>
+    <id>http://www.manvsmagic.com/2014/03/19/spoilers.html</id>
     <published>2014-03-19T12:39:00Z</published>
     <updated>2014-03-19T06:44:10-06:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/spoilers_manvsmagic.png" alt="Spoiler alert" /&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>The Future's So Bright I Need Sunglasses</title>
-    <link rel="alternate" href="http://blog.url.com/2014/03/17/future-so-bright-i-need-sunglasses.html"/>
-    <id>http://blog.url.com/2014/03/17/future-so-bright-i-need-sunglasses.html</id>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/17/future-so-bright-i-need-sunglasses.html"/>
+    <id>http://www.manvsmagic.com/2014/03/17/future-so-bright-i-need-sunglasses.html</id>
     <published>2014-03-17T13:34:00Z</published>
     <updated>2014-03-17T07:39:35-06:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/the-futures-so-bright-i-need-sunglasses_manvsmagic.png" alt="The light was blinding my eyes." /&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Along Came A Spider</title>
-    <link rel="alternate" href="http://blog.url.com/2014/03/12/along-came-a-spider.html"/>
-    <id>http://blog.url.com/2014/03/12/along-came-a-spider.html</id>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/12/along-came-a-spider.html"/>
+    <id>http://www.manvsmagic.com/2014/03/12/along-came-a-spider.html</id>
     <published>2014-03-12T13:23:00Z</published>
     <updated>2014-03-17T07:39:53-06:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/along-came-a-spider_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>One Man's Thrash is Another Man's Pleasure</title>
-    <link rel="alternate" href="http://blog.url.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html"/>
-    <id>http://blog.url.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html</id>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html"/>
+    <id>http://www.manvsmagic.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html</id>
     <published>2014-03-10T05:41:00Z</published>
     <updated>2014-03-17T07:39:53-06:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/one-man's-thrash-is-another-man's-pleasure_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>The Reason It's Such A Big Deal</title>
-    <link rel="alternate" href="http://blog.url.com/2014/03/06/the-reason-its-such-a-big-deal.html"/>
-    <id>http://blog.url.com/2014/03/06/the-reason-its-such-a-big-deal.html</id>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/06/the-reason-its-such-a-big-deal.html"/>
+    <id>http://www.manvsmagic.com/2014/03/06/the-reason-its-such-a-big-deal.html</id>
     <published>2014-03-06T05:03:00Z</published>
     <updated>2014-03-17T07:39:53-06:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/the-reason-its-such-a-big-deal_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Tuesdays</title>
-    <link rel="alternate" href="http://blog.url.com/2014/03/04/tuesdays.html"/>
-    <id>http://blog.url.com/2014/03/04/tuesdays.html</id>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/04/tuesdays.html"/>
+    <id>http://www.manvsmagic.com/2014/03/04/tuesdays.html</id>
     <published>2014-03-04T04:26:00Z</published>
     <updated>2014-03-17T07:39:53-06:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/tuesdays_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
 </content>
