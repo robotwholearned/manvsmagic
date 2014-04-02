@@ -3,7 +3,11 @@ title: Is htis real?
 ---
 <% comic = locals[:comic] %>
 
-<%=comic%>
+<%date = Date.parse comic.date%>
+<h1><%= comic.title %>  <span> - <%=date.strftime('%b %e, %Y') %></span></h1>
+
+<img src="/images/<%=comic.image%>" alt="FeelingIt" />
+
 <!-- example output: -->
 
 <!-- {"title"=>"Feeling It", 
