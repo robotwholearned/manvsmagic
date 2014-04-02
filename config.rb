@@ -36,7 +36,12 @@ page "/feed.xml", layout: false
 data.people.each do |fruit|
   proxy "/#{fruit.name}.html", "about/template.html", :locals => {:name => fruit.name, :price => fruit.price}, :ignore =>true
 end
-
+# data.blog_roll.each do |comic|
+#   proxy "/#{fruit.name}.html", "about/template.html", :locals => {:name => fruit.name, :price => fruit.price}, :ignore =>true
+# end
+data.blog_roll.each do |comic|
+  proxy "/comic/#{comic.number}.html", "about/template.html", :locals => {:name => comic.title}, :ignore =>true
+end
 # Assumes the file source/about/template.html.erb exists
 # (ruby command to get all the images).each do |filename, index|
 #   proxy "/#{index}.html", "/blog/template.html", :locals => { :filename => filename }
