@@ -1,12 +1,9 @@
----
-title: Is htis real?
----
 <% comic = locals[:comic] %>
 
 <%date = Date.parse comic.date%>
-<h1><%= comic.title %>  <span> - <%=date.strftime('%b %e, %Y') %></span></h1>
 
-<img src="/images/<%=comic.image%>" alt="FeelingIt" />
+<h1><%= comic.title %>  <span> - <%=date.strftime('%b %e, %Y') %></span></h1>
+<img src="/images/<%=comic.image%>" alt="<%=comic.title%>" />
 
 <!-- example output: -->
 
