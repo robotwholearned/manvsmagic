@@ -10,23 +10,11 @@ set :markdown, :fenced_code_blocks => true ,
 activate :syntax
 activate :directory_indexes
 page "blog/*", :layout => :blog_layout
+
 activate :blog do |blog|
-  # This will add a prefix to all links, template references and source paths
-  # blog.prefix = "blog"
   blog.permalink = "{year}/{month}/{day}/{title}.html"
-  #blog.layout = "blog_layout"
   blog.sources = "blog/{year}-{month}-{day}-{title}.html"
-  # blog.taglink = "tags/{tag}.html"
-  # blog.summary_separator = /(READMORE)/
-  # blog.summary_length = 250
-  # blog.year_link = "{year}.html"
-  # blog.month_link = "{year}/{month}.html"
-  # blog.day_link = "{year}/{month}/{day}.html"
-  # blog.default_extension = ".markdown"
-
-  blog.tag_template = "tag.html"
-  blog.calendar_template = "calendar.html"
-
+  
   # Enable pagination
    blog.paginate = true
    blog.per_page = 1
@@ -34,15 +22,6 @@ activate :blog do |blog|
 end
 
 page "/feed.xml", layout: false
-
-###
-# Compass
-###
-
-# Change Compass configuration
-# compass_config do |config|
-#   config.output_style = :compact
-# end
 
 ###
 # Page options, layouts, aliases and proxies
@@ -62,8 +41,12 @@ page "/feed.xml", layout: false
 # end
 
 # Proxy pages (http://middlemanapp.com/dynamic-pages/)
-# proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
-#  which_fake_page: "Rendering a fake page with a local variable" }
+ # proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
+  # which_fake_page: "Rendering a fake page with a local variable" }
+
+["tom", "dick", "harry"].each do |name|
+  proxy "/about/#{name}.html", "/about/template.html", :locals => { :person_name => name }, :ignore => true
+end
 
 ###
 # Helpers
@@ -104,4 +87,11 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+end
+
+ready do
+  sitemap.resources.group_by {|p| p.data["category"] }.each do |category, pages|
+    proxy "/categories/#{category}.html", "category.html", 
+      :locals => { :category => category, :pages => pages }
+  end
 end
