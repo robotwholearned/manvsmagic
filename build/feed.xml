@@ -4,10 +4,22 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-03-31T13:11:00Z</updated>
+  <updated>2014-04-02T13:09:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Weekends with Daddy</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/02/weekends-with-daddy.html"/>
+    <id>http://www.manvsmagic.com/2014/04/02/weekends-with-daddy.html</id>
+    <published>2014-04-02T13:09:00Z</published>
+    <updated>2014-04-02T07:11:18-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/weekends-with-daddy_manvsmagic.png" alt="Weekends with daddy" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Happy Birthday Son</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/03/31/happy-birthday-son.html"/>
@@ -66,18 +78,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/the-futures-so-bright-i-need-sunglasses_manvsmagic.png" alt="The light was blinding my eyes." /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Along Came A Spider</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/12/along-came-a-spider.html"/>
-    <id>http://www.manvsmagic.com/2014/03/12/along-came-a-spider.html</id>
-    <published>2014-03-12T19:23:00Z</published>
-    <updated>2014-03-29T19:44:33-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/along-came-a-spider_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
