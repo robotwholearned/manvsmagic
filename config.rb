@@ -27,7 +27,7 @@ end
 page "/feed.xml", layout: false
 
 data.blog_roll.each do |comic|
-  proxy "/#{comic.number}.html", "about/template.html", :locals => {:comic => comic}, :ignore =>true
+  proxy "/#{comic.number}.html", "/template.html", :locals => {:comic => comic}, :ignore =>true
 end
 # Reload the browser automatically whenever files change
 activate :livereload
