@@ -1,11 +1,7 @@
 <% comis = locals[:comic] %>
-<div class="pagination">
-	<%= link_to '', '/1', html_options = {:class=>"fa fa-fast-backward navigation-arrows"} %> 
-	<% if comic.firstComic != true %> 
-		<%= link_to '', "/#{comic.number - 1}", html_options = {:class=>"fa fa-step-backward navigation-arrows"} %> 
-	<%end%> 
-	<% if comic.lastComic != true %> 
-		<%= link_to '', "/#{comic.number + 1}", html_options = {:class=>"fa fa-step-forward navigation-arrows"} %> 
-	<%end%> 
-	<%= link_to '', "/", html_options = {:class=>"fa fa-fast-forward navigation-arrows"} %>
+<div class="pagination"> 
+<%= link_to '', '/1', html_options = {:class=>"fa fa-fast-backward navigation-arrows"} %> 
+<% if comic.firstComic != true %> <%= link_to '', "/#{comic.number - 1}", html_options = {:class=>"fa fa-step-backward navigation-arrows"} %> <%end%>
+<% if comic.lastComic != true %> <%= link_to '', "/#{comic.number + 1}", html_options = {:class=>"fa fa-step-forward navigation-arrows"} %> <%end%>
+<%= link_to '', "/", html_options = {:class=>"fa fa-fast-forward navigation-arrows"} %>
 </div>
