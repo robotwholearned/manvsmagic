@@ -3,7 +3,18 @@
 <%date = Date.parse comic.date%>
 
 <h1><%= comic.title %>  <span> - <%=date.strftime('%b %e, %Y') %></span></h1>
+<%= link_to 'first', '/1', html_options = {:class=>"fa fa-arrow-left navigation-arrows"} %>
+<%= comic.firstComic%>
+<% if comic.firstComic !~ "true" %>
+	<%= link_to 'prev', "/1", html_options = {:class=>"fa fa-arrow-left navigation-arrows"} %>
+<%end%>
+
 <img src="/images/<%=comic.image%>" alt="<%=comic.title%>" />
+
+
+<% if paginate && num_pages > 1 %>
+<% end %>
+
 
 <!-- example output: -->
 
