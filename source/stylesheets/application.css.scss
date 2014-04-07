@@ -55,6 +55,13 @@ img
 	font-size: 60px; 
 	padding-right: 50px; 
 }
+.navigation-arrows-faded
+{
+	text-decoration: none; 
+	color: grey; 
+	font-size: 60px; 
+	padding-right: 50px; 
+}
 .archive
 { 
 	display:block; 
@@ -97,10 +104,12 @@ img
 	height: 100px;
 	margin-bottom: 6px;
 }
-#slideout:hover {
+#slideout:hover 
+{
 	left: $slide-out-width;
 }
-#slideout:hover #slideout_inner {
+#slideout:hover #slideout_inner 
+{
 	left: 0;
 }
 .slideout-icon 

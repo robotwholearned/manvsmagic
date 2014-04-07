@@ -30,7 +30,7 @@ data.blog_roll.each do |comic|
   proxy "/#{comic.number}.html", "/comic.html", :locals => {:comic => comic}, :ignore =>true
 end
 # Reload the browser automatically whenever files change
-#activate :livereload
+activate :livereload
 
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'

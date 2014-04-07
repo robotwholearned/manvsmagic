@@ -118,6 +118,6 @@ DEPENDENCIES
   font-awesome-middleman
   middleman (~> 3.2.2)
   middleman-blog (~> 3.5.1)
-  middleman-livereload (~> 3.1.0)
+  middleman-livereload
   middleman-syntax
   redcarpet
