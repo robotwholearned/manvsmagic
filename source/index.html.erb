@@ -1,21 +1,9 @@
 ---
-pageable: true
-per_page: 1
+pageable: false
 ---
-<% page_articles.each_with_index do |article, i| %>
-<h1><%= article.title %>  <span> - <%= article.date.strftime('%b %e, %Y') %></span></h1>
-<div class="pagination">
-<% if paginate && num_pages > 1 %>
-  <%= link_to '', next_page, html_options = {:class=>"fa fa-arrow-left navigation-arrows"} %>
-  <%= link_to '', prev_page, html_options = {:class=>"fa fa-arrow-right navigation-arrows"} %>
-<% end %>
-</div>
-<%= article.body %>
-<% end %>
+<%data.blog_roll.each_with_index do |comic, i|%>
+	<% if true %>
+		<h1>BUTTS</h1>
+	<% end %>
+<%end%>
 
-<div class="pagination">
-<% if paginate && num_pages > 1 %>
-    <%= link_to '', next_page, html_options = {:class=>"fa fa-arrow-left navigation-arrows"} %>
- 	<%= link_to '', prev_page, html_options = {:class=>"fa fa-arrow-right navigation-arrows"} %>
-<% end %>
-</div>
