@@ -2,8 +2,8 @@
 pageable: false
 ---
 <%data.blog_roll.each_with_index do |comic, i|%>
-	<% if true %>
-		<h1>BUTTS</h1>
+	<% if i == data.blog_roll.length-1 %>
+		<%= partial(:comic, :locals => { :comic => comic}) %>
 	<% end %>
 <%end%>
 
