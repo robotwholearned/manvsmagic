@@ -1,15 +1,15 @@
 <% comis = locals[:comic] %>
 <div class="pagination"> 
-<%= link_to '', '/1', html_options = {:class=>"fa fa-angle-double-left navigation-arrows"} %> 
+<%= link_to 'first', '/1', html_options = {:class=>"navigation-arrows"} %> 
 <% if comic.firstComic != true %> 
-	<%= link_to '', "/#{comic.number - 1}", html_options = {:class=>"fa fa-angle-left navigation-arrows"} %> 
+	<%= link_to 'previous', "/#{comic.number - 1}", html_options = {:class=>" navigation-arrows"} %> 
 <% else %>
-	<span class="fa fa-angle-left navigation-arrows-faded"></span>
+	<span class=" navigation-arrows-faded">previous</span>
 <%end%>
 <% if comic.lastComic != true %> 
-	<%= link_to '', "/#{comic.number + 1}", html_options = {:class=>"fa fa-angle-right navigation-arrows"} %> 
+	<%= link_to 'next', "/#{comic.number + 1}", html_options = {:class=>" navigation-arrows"} %> 
 <% else %>
-	<span class="fa fa-angle-right navigation-arrows-faded"></span>
+	<span class=" navigation-arrows-faded">next</span>
 <%end%>
-<%= link_to '', "/", html_options = {:class=>"fa fa-angle-double-right navigation-arrows"} %>
+<%= link_to 'last', "/", html_options = {:class=>" navigation-arrows"} %>
 </div>

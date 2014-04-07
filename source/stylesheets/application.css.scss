@@ -36,6 +36,7 @@ img
 	display: block; 
 	margin-left: auto; 
 	margin-right: auto; 
+	padding-bottom: 15px;
 }
 .pagination 
 { 
@@ -43,8 +44,6 @@ img
 }
 .contact
 { 
-	/*float: right; 
-	padding:10px; */
 	text-decoration: none; 
 	color: black; 
 }
@@ -52,17 +51,13 @@ img
 { 
 	text-decoration: none; 
 	color: black; 
-	font-size: 60px; 
-	padding-right: 50px; 
-	font-weight: bolder;
+	font-size: 30px; 
+	padding-right: 10px; 
 }
 .navigation-arrows-faded
 {
-	text-decoration: none; 
+	@extend .navigation-arrows;
 	color: grey; 
-	font-size: 60px; 
-	padding-right: 50px; 
-	font-weight: bolder;
 }
 .archive
 { 
