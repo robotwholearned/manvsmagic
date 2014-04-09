@@ -4,10 +4,22 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-04-07T13:38:00Z</updated>
+  <updated>2014-04-09T13:09:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Haunting</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/09/haunting.html"/>
+    <id>http://www.manvsmagic.com/2014/04/09/haunting.html</id>
+    <published>2014-04-09T13:09:00Z</published>
+    <updated>2014-04-09T07:09:53-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/haunting_manvsmagic.png" alt="Nostalgia" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Nostalgia</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/04/07/nostalgia.html"/>
@@ -66,18 +78,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/oh-the-places-well-go_manvsmagic.png" alt="Oh, the places we'll go!" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Spoilers</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/19/spoilers.html"/>
-    <id>http://www.manvsmagic.com/2014/03/19/spoilers.html</id>
-    <published>2014-03-19T18:39:00Z</published>
-    <updated>2014-03-29T19:44:33-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/spoilers_manvsmagic.png" alt="Spoiler alert" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
