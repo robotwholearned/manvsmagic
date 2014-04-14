@@ -4,16 +4,27 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-04-09T13:09:00Z</updated>
+  <updated>2014-04-14T13:30:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Male Enhancement</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/14/male-enhancement.html"/>
+    <id>http://www.manvsmagic.com/2014/04/14/male-enhancement.html</id>
+    <published>2014-04-14T13:30:00Z</published>
+    <updated>2014-04-14T07:30:49-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html"></content>
+  </entry>
   <entry>
     <title>Haunting</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/04/09/haunting.html"/>
     <id>http://www.manvsmagic.com/2014/04/09/haunting.html</id>
     <published>2014-04-09T13:09:00Z</published>
-    <updated>2014-04-09T07:09:53-06:00</updated>
+    <updated>2014-04-09T07:20:04-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -66,18 +77,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/trying-times_manvsmagic.png" alt="Trying times" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Oh, The Places We'll Go</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/24/oh-the-places-we-will-go.html"/>
-    <id>http://www.manvsmagic.com/2014/03/24/oh-the-places-we-will-go.html</id>
-    <published>2014-03-24T06:32:00Z</published>
-    <updated>2014-04-07T08:51:47-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/oh-the-places-well-go_manvsmagic.png" alt="Oh, the places we'll go!" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
