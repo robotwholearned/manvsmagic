@@ -4,10 +4,21 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-04-14T13:30:00Z</updated>
+  <updated>2014-04-16T13:09:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>If You Have To Ask</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/16/if-you-have-to-ask.html"/>
+    <id>http://www.manvsmagic.com/2014/04/16/if-you-have-to-ask.html</id>
+    <published>2014-04-16T13:09:00Z</published>
+    <updated>2014-04-16T07:09:10-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html"></content>
+  </entry>
   <entry>
     <title>Male Enhancement</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/04/14/male-enhancement.html"/>
@@ -65,18 +76,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/happy-birthday-son_manvsmagic.png" alt="Happy Birthday Son" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Trying Times</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/26/trying-times.html"/>
-    <id>http://www.manvsmagic.com/2014/03/26/trying-times.html</id>
-    <published>2014-03-26T12:47:00Z</published>
-    <updated>2014-03-29T19:44:33-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/trying-times_manvsmagic.png" alt="Trying times" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
