@@ -1,0 +1,6 @@
+---
+title: Sorcery
+date: 2014-05-14 08:29 MDT
+tags:
+---
+<img src="/images/sorcery_manvsmagic.png" alt="Sorcery" />
