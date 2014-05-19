@@ -4,10 +4,22 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-05-14T14:29:00Z</updated>
+  <updated>2014-05-19T13:42:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Gentle Giant</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/19/gentle-giant.html"/>
+    <id>http://www.manvsmagic.com/2014/05/19/gentle-giant.html</id>
+    <published>2014-05-19T13:42:00Z</published>
+    <updated>2014-05-19T07:44:24-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/gentle-giant_manvsmagic.png" alt="Gentle Giant" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Sorcery</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/05/14/sorcery.html"/>
@@ -66,18 +78,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/male-enhancement_manvsmagic.png" alt="Male Enhancement" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Haunting</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/09/haunting.html"/>
-    <id>http://www.manvsmagic.com/2014/04/09/haunting.html</id>
-    <published>2014-04-09T13:09:00Z</published>
-    <updated>2014-05-11T20:49:53-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/haunting_manvsmagic.png" alt="Nostalgia" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
