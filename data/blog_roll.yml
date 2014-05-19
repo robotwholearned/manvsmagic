@@ -103,6 +103,10 @@
   image: "sorcery_manvsmagic.png"
   date: 2014-05-14 08:29 MDT
   number: 26
+- title: "Gentle Giant"
+  image: "gentle-giant_manvsmagic.png"
+  date: 2014-05-19 07:42 MDT
+  number: 27
   lastComic: true
 # - title: ""
 #   image: ""
