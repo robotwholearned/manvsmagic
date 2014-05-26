@@ -4,10 +4,22 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-05-21T13:55:00Z</updated>
+  <updated>2014-05-26T13:51:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Missing In Action</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/26/missing-in-action.html"/>
+    <id>http://www.manvsmagic.com/2014/05/26/missing-in-action.html</id>
+    <published>2014-05-26T13:51:00Z</published>
+    <updated>2014-05-26T07:52:48-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/missing-in-action_manvsmagic.png" alt="M.I.A." /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Topical Stuff</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/05/21/topical-stuff.html"/>
@@ -66,18 +78,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/down-to-clown_manvsmagic.png" alt="Down To Clown" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>If You Have To Ask</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/16/if-you-have-to-ask.html"/>
-    <id>http://www.manvsmagic.com/2014/04/16/if-you-have-to-ask.html</id>
-    <published>2014-04-16T13:09:00Z</published>
-    <updated>2014-05-11T20:49:53-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/if-you-have-to-ask_manvsmagic.png" alt="if you have to ask" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
