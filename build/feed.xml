@@ -4,16 +4,28 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-05-26T13:51:00Z</updated>
+  <updated>2014-05-28T13:13:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Budgie Bros</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/28/budgie-bros.html"/>
+    <id>http://www.manvsmagic.com/2014/05/28/budgie-bros.html</id>
+    <published>2014-05-28T13:13:00Z</published>
+    <updated>2014-05-28T07:14:51-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/budgie-bros_manvsmagic.png" alt="Budgie Bros" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Missing In Action</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/05/26/missing-in-action.html"/>
     <id>http://www.manvsmagic.com/2014/05/26/missing-in-action.html</id>
     <published>2014-05-26T13:51:00Z</published>
-    <updated>2014-05-26T17:37:08-06:00</updated>
+    <updated>2014-05-26T07:52:48-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -25,7 +37,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/05/21/topical-stuff.html"/>
     <id>http://www.manvsmagic.com/2014/05/21/topical-stuff.html</id>
     <published>2014-05-21T13:55:00Z</published>
-    <updated>2014-05-26T17:37:08-06:00</updated>
+    <updated>2014-05-21T07:56:03-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -37,7 +49,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/05/19/gentle-giant.html"/>
     <id>http://www.manvsmagic.com/2014/05/19/gentle-giant.html</id>
     <published>2014-05-19T13:42:00Z</published>
-    <updated>2014-05-26T17:37:08-06:00</updated>
+    <updated>2014-05-19T07:44:24-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -49,7 +61,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/05/14/sorcery.html"/>
     <id>http://www.manvsmagic.com/2014/05/14/sorcery.html</id>
     <published>2014-05-14T14:29:00Z</published>
-    <updated>2014-05-26T17:37:08-06:00</updated>
+    <updated>2014-05-14T08:31:22-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -61,23 +73,11 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/05/11/wet-willy.html"/>
     <id>http://www.manvsmagic.com/2014/05/11/wet-willy.html</id>
     <published>2014-05-12T02:52:00Z</published>
-    <updated>2014-05-26T17:37:08-06:00</updated>
+    <updated>2014-05-11T20:53:09-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/wet-willy_manvsmagic.png" alt="Wet Willy" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Down To Clown</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/21/down-to-clown.html"/>
-    <id>http://www.manvsmagic.com/2014/04/21/down-to-clown.html</id>
-    <published>2014-04-21T13:36:00Z</published>
-    <updated>2014-04-21T07:37:24-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/down-to-clown_manvsmagic.png" alt="Down To Clown" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
