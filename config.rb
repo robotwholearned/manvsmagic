@@ -36,6 +36,9 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
+#sitemap
+activate :sitemap, :hostname => "http://www.manvsmagic.com"
+
 # Build-specific configuration
 configure :build do
   activate :minify_css

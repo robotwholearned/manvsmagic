@@ -12,6 +12,6 @@ gem "bootstrap-sass", require: false
 gem "redcarpet" 
 gem "middleman-syntax"
 gem 'font-awesome-middleman'
-
 # gem 'image_optim'
 gem "middleman-imageoptim", "~> 0.1.4"
+gem "middleman-sitemap"

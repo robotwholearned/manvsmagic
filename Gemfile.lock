@@ -78,6 +78,8 @@ GEM
       em-websocket (~> 0.5.1)
       middleman-core (~> 3.2)
       rack-livereload (~> 0.3.15)
+    middleman-sitemap (0.0.13)
+      middleman-core (>= 3.2.2)
     middleman-sprockets (3.3.3)
       middleman-core (>= 3.2)
       sprockets (~> 2.2)
@@ -131,5 +133,6 @@ DEPENDENCIES
   middleman-blog (~> 3.5.1)
   middleman-imageoptim (~> 0.1.4)
   middleman-livereload
+  middleman-sitemap
   middleman-syntax
   redcarpet
