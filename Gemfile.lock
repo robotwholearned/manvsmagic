@@ -23,25 +23,15 @@ GEM
     eventmachine (1.0.3)
     execjs (1.4.0)
       multi_json (~> 1.0)
-    exifr (1.1.3)
     ffi (1.9.3)
     font-awesome-middleman (4.1.1)
       middleman-core (>= 3.0.0)
-    fspath (2.0.6)
     fssm (0.2.10)
     haml (4.0.5)
       tilt
     hike (1.2.3)
     http_parser.rb (0.6.0)
     i18n (0.6.9)
-    image_optim (0.9.1)
-      exifr (~> 1.1.3)
-      fspath (~> 2.0.5)
-      image_size (~> 1.1.2)
-      in_threads (~> 1.2.0)
-      progress (~> 3.0.0)
-    image_size (1.1.5)
-    in_threads (1.2.1)
     json (1.8.1)
     kramdown (1.3.3)
     listen (1.3.1)
@@ -71,9 +61,6 @@ GEM
       rack-test (~> 0.6.1)
       thor (>= 0.15.2, < 2.0)
       tilt (~> 1.4.1)
-    middleman-imageoptim (0.1.4)
-      image_optim (~> 0.9.1)
-      middleman-core (>= 3.0)
     middleman-livereload (3.3.3)
       em-websocket (~> 0.5.1)
       middleman-core (~> 3.2)
@@ -89,7 +76,6 @@ GEM
       middleman-core (~> 3.2)
       rouge (~> 1.0)
     multi_json (1.10.1)
-    progress (3.0.0)
     rack (1.5.2)
     rack-livereload (0.3.15)
       rack
@@ -131,7 +117,6 @@ DEPENDENCIES
   font-awesome-middleman
   middleman (~> 3.2.2)
   middleman-blog (~> 3.5.1)
-  middleman-imageoptim (~> 0.1.4)
   middleman-livereload
   middleman-sitemap
   middleman-syntax
