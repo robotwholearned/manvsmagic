@@ -4,20 +4,33 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-06-09T14:28:00Z</updated>
+  <updated>2014-06-11T14:24:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Feeling Nuts</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/11/feeling-nuts.html"/>
+    <id>http://www.manvsmagic.com/2014/06/11/feeling-nuts.html</id>
+    <published>2014-06-11T14:24:00Z</published>
+    <updated>2014-06-11T08:28:07-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/feeling-nuts_manvsmagic.png" alt="Feeling Nuts" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Sometimes They Just Don't Know</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/09/sometimes-they-just-don-t-know.html"/>
     <id>http://www.manvsmagic.com/2014/06/09/sometimes-they-just-don-t-know.html</id>
     <published>2014-06-09T14:28:00Z</published>
-    <updated>2014-06-09T08:28:54-06:00</updated>
+    <updated>2014-06-11T08:27:00-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
-    <content type="html"></content>
+    <content type="html">&lt;p&gt;&lt;img src="/images/sometimes-they-just-dont-know_manvsmagic.png" alt="Sometimes They Just Don't Know" /&gt;&lt;/p&gt;
+</content>
   </entry>
   <entry>
     <title>Demonstrate Value</title>
@@ -65,18 +78,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/missing-in-action_manvsmagic.png" alt="M.I.A." /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Topical Stuff</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/21/topical-stuff.html"/>
-    <id>http://www.manvsmagic.com/2014/05/21/topical-stuff.html</id>
-    <published>2014-05-21T13:55:00Z</published>
-    <updated>2014-06-06T00:34:24-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/topical-stuff_manvsmagic.png" alt="Netflicks" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
