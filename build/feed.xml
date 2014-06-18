@@ -4,16 +4,28 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-06-16T14:28:00Z</updated>
+  <updated>2014-06-18T13:44:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Grandparents Of The Future</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/18/grandparents-of-the-future.html"/>
+    <id>http://www.manvsmagic.com/2014/06/18/grandparents-of-the-future.html</id>
+    <published>2014-06-18T13:44:00Z</published>
+    <updated>2014-06-18T07:49:25-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/grandparents-of-the-future_manvsmagic.png" alt="Jungle Love" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Jungle Love</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/16/jungle-love.html"/>
     <id>http://www.manvsmagic.com/2014/06/16/jungle-love.html</id>
     <published>2014-06-16T14:28:00Z</published>
-    <updated>2014-06-16T08:30:59-06:00</updated>
+    <updated>2014-06-16T10:30:10-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -25,7 +37,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/11/feeling-nuts.html"/>
     <id>http://www.manvsmagic.com/2014/06/11/feeling-nuts.html</id>
     <published>2014-06-11T14:24:00Z</published>
-    <updated>2014-06-11T08:28:07-06:00</updated>
+    <updated>2014-06-16T10:30:10-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -37,7 +49,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/09/sometimes-they-just-don-t-know.html"/>
     <id>http://www.manvsmagic.com/2014/06/09/sometimes-they-just-don-t-know.html</id>
     <published>2014-06-09T14:28:00Z</published>
-    <updated>2014-06-11T08:27:00-06:00</updated>
+    <updated>2014-06-16T10:30:10-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -49,7 +61,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/04/demonstrate-value.html"/>
     <id>http://www.manvsmagic.com/2014/06/04/demonstrate-value.html</id>
     <published>2014-06-04T13:32:00Z</published>
-    <updated>2014-06-06T00:34:24-06:00</updated>
+    <updated>2014-06-04T07:38:17-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -61,23 +73,11 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/02/third-nipple.html"/>
     <id>http://www.manvsmagic.com/2014/06/02/third-nipple.html</id>
     <published>2014-06-02T13:59:00Z</published>
-    <updated>2014-06-06T00:34:24-06:00</updated>
+    <updated>2014-06-04T07:29:42-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/third-nipple_manvsmagic.png" alt="Third Nipple" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Budgie Bros</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/28/budgie-bros.html"/>
-    <id>http://www.manvsmagic.com/2014/05/28/budgie-bros.html</id>
-    <published>2014-05-28T13:13:00Z</published>
-    <updated>2014-06-06T00:34:24-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/budgie-bros_manvsmagic.png" alt="Budgie Bros" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
