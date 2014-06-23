@@ -4,10 +4,22 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-06-18T13:44:00Z</updated>
+  <updated>2014-06-23T12:22:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Trying To Explain Gang Signs For The First Time</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/23/trying-to-explain-gang-signs-for-the-first-time.html"/>
+    <id>http://www.manvsmagic.com/2014/06/23/trying-to-explain-gang-signs-for-the-first-time.html</id>
+    <published>2014-06-23T12:22:00Z</published>
+    <updated>2014-06-23T06:24:20-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/trying-to-explain-gang-signs-for-the-first-time_manvsmagic.png" alt="Trying To Explain Gang Signs For The First Time" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Grandparents Of The Future</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/18/grandparents-of-the-future.html"/>
@@ -66,18 +78,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/demonstrate-value_manvsmagic.png" alt="Demonstrate Value" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Third Nipple</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/02/third-nipple.html"/>
-    <id>http://www.manvsmagic.com/2014/06/02/third-nipple.html</id>
-    <published>2014-06-02T13:59:00Z</published>
-    <updated>2014-06-04T07:29:42-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/third-nipple_manvsmagic.png" alt="Third Nipple" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
