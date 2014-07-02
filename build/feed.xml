@@ -4,16 +4,28 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-06-30T14:27:00Z</updated>
+  <updated>2014-07-02T14:21:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Prankin' Ain't Easy</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/07/02/prankin-ain-t-easy.html"/>
+    <id>http://www.manvsmagic.com/2014/07/02/prankin-ain-t-easy.html</id>
+    <published>2014-07-02T14:21:00Z</published>
+    <updated>2014-07-02T08:23:26-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/prankin-aint-easy_manvsmagic.png" alt="prankin' ain't easy" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Starting a Family</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/30/starting-a-family.html"/>
     <id>http://www.manvsmagic.com/2014/06/30/starting-a-family.html</id>
     <published>2014-06-30T14:27:00Z</published>
-    <updated>2014-07-01T07:57:29-06:00</updated>
+    <updated>2014-07-02T08:25:32-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -25,7 +37,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/25/common-denominator.html"/>
     <id>http://www.manvsmagic.com/2014/06/25/common-denominator.html</id>
     <published>2014-06-25T13:45:00Z</published>
-    <updated>2014-07-01T07:48:57-06:00</updated>
+    <updated>2014-06-25T07:47:06-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -37,7 +49,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/23/trying-to-explain-gang-signs-for-the-first-time.html"/>
     <id>http://www.manvsmagic.com/2014/06/23/trying-to-explain-gang-signs-for-the-first-time.html</id>
     <published>2014-06-23T12:22:00Z</published>
-    <updated>2014-07-01T07:48:57-06:00</updated>
+    <updated>2014-06-23T06:24:20-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -49,7 +61,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/18/grandparents-of-the-future.html"/>
     <id>http://www.manvsmagic.com/2014/06/18/grandparents-of-the-future.html</id>
     <published>2014-06-18T13:44:00Z</published>
-    <updated>2014-07-01T07:48:57-06:00</updated>
+    <updated>2014-06-18T07:49:25-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -61,23 +73,11 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/16/jungle-love.html"/>
     <id>http://www.manvsmagic.com/2014/06/16/jungle-love.html</id>
     <published>2014-06-16T14:28:00Z</published>
-    <updated>2014-06-16T08:30:59-06:00</updated>
+    <updated>2014-06-16T10:30:10-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/jungle-love_manvsmagic.png" alt="Jungle Love" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Feeling Nuts</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/11/feeling-nuts.html"/>
-    <id>http://www.manvsmagic.com/2014/06/11/feeling-nuts.html</id>
-    <published>2014-06-11T14:24:00Z</published>
-    <updated>2014-06-11T08:28:07-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/feeling-nuts_manvsmagic.png" alt="Feeling Nuts" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
