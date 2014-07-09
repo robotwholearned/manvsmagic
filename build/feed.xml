@@ -4,16 +4,28 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-07-07T13:18:00Z</updated>
+  <updated>2014-07-09T11:42:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Consider A Career In Starfleet</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/07/09/consider-a-career-in-starfleet.html"/>
+    <id>http://www.manvsmagic.com/2014/07/09/consider-a-career-in-starfleet.html</id>
+    <published>2014-07-09T11:42:00Z</published>
+    <updated>2014-07-09T05:43:48-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/consider-a-career-in-starfleet_manvsmagic.png" alt="Starfleet" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Staring Into The Abyss</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/07/07/staring-into-the-abyss.html"/>
     <id>http://www.manvsmagic.com/2014/07/07/staring-into-the-abyss.html</id>
     <published>2014-07-07T13:18:00Z</published>
-    <updated>2014-07-07T07:20:02-06:00</updated>
+    <updated>2014-07-09T05:43:20-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -66,18 +78,6 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/trying-to-explain-gang-signs-for-the-first-time_manvsmagic.png" alt="Trying To Explain Gang Signs For The First Time" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Grandparents Of The Future</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/18/grandparents-of-the-future.html"/>
-    <id>http://www.manvsmagic.com/2014/06/18/grandparents-of-the-future.html</id>
-    <published>2014-06-18T13:44:00Z</published>
-    <updated>2014-07-01T07:48:57-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/grandparents-of-the-future_manvsmagic.png" alt="Jungle Love" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
