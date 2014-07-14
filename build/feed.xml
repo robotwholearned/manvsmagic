@@ -4,16 +4,28 @@
   <id>http://www.manvsmagic.com</id>
   <link href="http://www.manvsmagic.com"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-07-09T11:42:00Z</updated>
+  <updated>2014-07-14T11:59:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Parents Don't Really Pay That Much Attention To The Details</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/07/14/parents-don-t-really-pay-that-much-attention-to-the-details.html"/>
+    <id>http://www.manvsmagic.com/2014/07/14/parents-don-t-really-pay-that-much-attention-to-the-details.html</id>
+    <published>2014-07-14T11:59:00Z</published>
+    <updated>2014-07-14T06:02:33-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/parents-don't-reall-pay-that-much-attention-to-the-details_manvsagic.png" alt="Parents Don't Really Pay That Much Attention To The Details" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Consider A Career In Starfleet</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/07/09/consider-a-career-in-starfleet.html"/>
     <id>http://www.manvsmagic.com/2014/07/09/consider-a-career-in-starfleet.html</id>
     <published>2014-07-09T11:42:00Z</published>
-    <updated>2014-07-09T05:43:48-06:00</updated>
+    <updated>2014-07-14T03:52:42-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -25,7 +37,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/07/07/staring-into-the-abyss.html"/>
     <id>http://www.manvsmagic.com/2014/07/07/staring-into-the-abyss.html</id>
     <published>2014-07-07T13:18:00Z</published>
-    <updated>2014-07-09T05:43:20-06:00</updated>
+    <updated>2014-07-14T03:52:31-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -37,7 +49,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/07/02/prankin-ain-t-easy.html"/>
     <id>http://www.manvsmagic.com/2014/07/02/prankin-ain-t-easy.html</id>
     <published>2014-07-02T14:21:00Z</published>
-    <updated>2014-07-07T07:19:20-06:00</updated>
+    <updated>2014-07-02T08:23:26-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -49,7 +61,7 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/30/starting-a-family.html"/>
     <id>http://www.manvsmagic.com/2014/06/30/starting-a-family.html</id>
     <published>2014-06-30T14:27:00Z</published>
-    <updated>2014-07-01T07:57:29-06:00</updated>
+    <updated>2014-07-07T12:04:36-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
@@ -61,23 +73,11 @@
     <link rel="alternate" href="http://www.manvsmagic.com/2014/06/25/common-denominator.html"/>
     <id>http://www.manvsmagic.com/2014/06/25/common-denominator.html</id>
     <published>2014-06-25T13:45:00Z</published>
-    <updated>2014-07-01T07:48:57-06:00</updated>
+    <updated>2014-06-25T07:47:06-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/common-denominator_manvsmagic.png" alt="common denominator" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Trying To Explain Gang Signs For The First Time</title>
-    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/23/trying-to-explain-gang-signs-for-the-first-time.html"/>
-    <id>http://www.manvsmagic.com/2014/06/23/trying-to-explain-gang-signs-for-the-first-time.html</id>
-    <published>2014-06-23T12:22:00Z</published>
-    <updated>2014-07-01T07:48:57-06:00</updated>
-    <author>
-      <name>ManVsMagic</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img src="/images/trying-to-explain-gang-signs-for-the-first-time_manvsmagic.png" alt="Trying To Explain Gang Signs For The First Time" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
