@@ -4,5 +4,6 @@
 <main role="main">
 	<h1><%= comic.title %>  <span> - <%=date.strftime('%b %e, %Y') %></span></h1>
 	<img src="/images/<%=comic.image%>" alt="<%=comic.title%>" />
+	<div id="transcript" style="display: none"><%=comic.transcript%></div>
 </main>
 <%= partial(:navigation_arrows, :locals => { :comic => comic}) %>
