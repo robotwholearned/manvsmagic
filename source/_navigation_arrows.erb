@@ -1,6 +1,6 @@
 <% comis = locals[:comic] %>
 
-<div class="pagination"> 
+<div class="pagination" role="navigation"> 
 
 <% if comic.firstComic != true %> 
 	<%= link_to 'first', '/1', html_options = {:class=>"navigation-arrows"} %> 

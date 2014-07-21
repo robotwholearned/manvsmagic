@@ -10,10 +10,8 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   </head>
   <body>
-    <%=link_to(image_tag("../images/banner_manvsmagic.png", :alt => "manvsmagic banner"), "/")%>
-    <div id="main" role="main">
+    <%=link_to(image_tag("../images/banner_manvsmagic.png", :alt => "manvsmagic banner", :role => "banner"), "/")%>
       <%= yield %>
-    </div>
     <%= partial "footer" %>
   </body>
 </html>

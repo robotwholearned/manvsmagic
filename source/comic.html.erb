@@ -1,6 +1,8 @@
 <% comic = locals[:comic] %> 
 <%= partial(:navigation_arrows, :locals => { :comic => comic}) %>
 <%date = Date.parse comic.date%>
-<h1><%= comic.title %>  <span> - <%=date.strftime('%b %e, %Y') %></span></h1>
-<img src="/images/<%=comic.image%>" alt="<%=comic.title%>" />
+<main role="main">
+	<h1><%= comic.title %>  <span> - <%=date.strftime('%b %e, %Y') %></span></h1>
+	<img src="/images/<%=comic.image%>" alt="<%=comic.title%>" />
+</main>
 <%= partial(:navigation_arrows, :locals => { :comic => comic}) %>
