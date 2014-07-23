@@ -13,8 +13,8 @@ page "blog/*", :layout => :blog_layout
 activate :blog do |blog|
   blog.permalink = "{year}/{month}/{day}/{title}.html"
   blog.sources = "blog/{year}-{month}-{day}-{title}.html"
-  blog.tag_template = "tag.html"
-  blog.calendar_template = "calendar.html"
+  #blog.tag_template = "tag.html"
+  #blog.calendar_template = "calendar.html"
   #blog.sources = "blog/{article-number}.html"
   #blog.permalink = "/{article-number}.html"
 
