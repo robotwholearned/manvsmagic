@@ -1,6 +1,6 @@
 xml.instruct!
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
-  site_url = "http://www.manvsmagic.com"
+  site_url = "http://www.manvsmagic.com/"
   xml.title "ManVsMagic"
   # xml.subtitle "Blog subtitle"
   xml.id URI.join(site_url, blog.options.prefix.to_s)
@@ -9,7 +9,7 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   xml.updated(blog.articles.first.date.to_time.iso8601) unless blog.articles.empty?
   xml.author { xml.name "ManVsMagic" }
 
-  blog.articles[0..5].each do |article|
+  blog.articles.each do |article|
     xml.entry do
       xml.title article.title
       xml.link "rel" => "alternate", "href" => URI.join(site_url, article.url)

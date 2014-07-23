@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ManVsMagic</title>
-  <id>http://www.manvsmagic.com</id>
-  <link href="http://www.manvsmagic.com"/>
+  <id>http://www.manvsmagic.com/</id>
+  <link href="http://www.manvsmagic.com/"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-07-21T12:34:00Z</updated>
+  <updated>2014-07-23T12:34:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Companion Bot</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/07/23/companion-bot.html"/>
+    <id>http://www.manvsmagic.com/2014/07/23/companion-bot.html</id>
+    <published>2014-07-23T12:34:00Z</published>
+    <updated>2014-07-23T00:09:37-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/companion-bot_manvsmagic.png" alt="Time To Grow Up" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Time To Grow Up</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/07/21/time-to-grow-up.html"/>
@@ -78,6 +90,474 @@
       <name>ManVsMagic</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img src="/images/prankin-aint-easy_manvsmagic.png" alt="prankin' ain't easy" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Starting a Family</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/30/starting-a-family.html"/>
+    <id>http://www.manvsmagic.com/2014/06/30/starting-a-family.html</id>
+    <published>2014-06-30T14:27:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/starting-a-family_manvsmagic.png" alt="common denominator" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Common Denominator</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/25/common-denominator.html"/>
+    <id>http://www.manvsmagic.com/2014/06/25/common-denominator.html</id>
+    <published>2014-06-25T13:45:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/common-denominator_manvsmagic.png" alt="common denominator" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Trying To Explain Gang Signs For The First Time</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/23/trying-to-explain-gang-signs-for-the-first-time.html"/>
+    <id>http://www.manvsmagic.com/2014/06/23/trying-to-explain-gang-signs-for-the-first-time.html</id>
+    <published>2014-06-23T12:22:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/trying-to-explain-gang-signs-for-the-first-time_manvsmagic.png" alt="Trying To Explain Gang Signs For The First Time" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Grandparents Of The Future</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/18/grandparents-of-the-future.html"/>
+    <id>http://www.manvsmagic.com/2014/06/18/grandparents-of-the-future.html</id>
+    <published>2014-06-18T13:44:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/grandparents-of-the-future_manvsmagic.png" alt="Jungle Love" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Jungle Love</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/16/jungle-love.html"/>
+    <id>http://www.manvsmagic.com/2014/06/16/jungle-love.html</id>
+    <published>2014-06-16T14:28:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/jungle-love_manvsmagic.png" alt="Jungle Love" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Feeling Nuts</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/11/feeling-nuts.html"/>
+    <id>http://www.manvsmagic.com/2014/06/11/feeling-nuts.html</id>
+    <published>2014-06-11T14:24:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/feeling-nuts_manvsmagic.png" alt="Feeling Nuts" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Sometimes They Just Don't Know</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/09/sometimes-they-just-don-t-know.html"/>
+    <id>http://www.manvsmagic.com/2014/06/09/sometimes-they-just-don-t-know.html</id>
+    <published>2014-06-09T14:28:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/sometimes-they-just-dont-know_manvsmagic.png" alt="Sometimes They Just Don't Know" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Demonstrate Value</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/04/demonstrate-value.html"/>
+    <id>http://www.manvsmagic.com/2014/06/04/demonstrate-value.html</id>
+    <published>2014-06-04T13:32:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/demonstrate-value_manvsmagic.png" alt="Demonstrate Value" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Third Nipple</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/06/02/third-nipple.html"/>
+    <id>http://www.manvsmagic.com/2014/06/02/third-nipple.html</id>
+    <published>2014-06-02T13:59:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/third-nipple_manvsmagic.png" alt="Third Nipple" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Budgie Bros</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/28/budgie-bros.html"/>
+    <id>http://www.manvsmagic.com/2014/05/28/budgie-bros.html</id>
+    <published>2014-05-28T13:13:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/budgie-bros_manvsmagic.png" alt="Budgie Bros" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Missing In Action</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/26/missing-in-action.html"/>
+    <id>http://www.manvsmagic.com/2014/05/26/missing-in-action.html</id>
+    <published>2014-05-26T13:51:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/missing-in-action_manvsmagic.png" alt="M.I.A." /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Topical Stuff</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/21/topical-stuff.html"/>
+    <id>http://www.manvsmagic.com/2014/05/21/topical-stuff.html</id>
+    <published>2014-05-21T13:55:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/topical-stuff_manvsmagic.png" alt="Netflicks" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Gentle Giant</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/19/gentle-giant.html"/>
+    <id>http://www.manvsmagic.com/2014/05/19/gentle-giant.html</id>
+    <published>2014-05-19T13:42:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/gentle-giant_manvsmagic.png" alt="Gentle Giant" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Sorcery</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/14/sorcery.html"/>
+    <id>http://www.manvsmagic.com/2014/05/14/sorcery.html</id>
+    <published>2014-05-14T14:29:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/sorcery_manvsmagic.png" alt="Sorcery" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Wet Willy</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/05/11/wet-willy.html"/>
+    <id>http://www.manvsmagic.com/2014/05/11/wet-willy.html</id>
+    <published>2014-05-12T02:52:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/wet-willy_manvsmagic.png" alt="Wet Willy" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Down To Clown</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/21/down-to-clown.html"/>
+    <id>http://www.manvsmagic.com/2014/04/21/down-to-clown.html</id>
+    <published>2014-04-21T13:36:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/down-to-clown_manvsmagic.png" alt="Down To Clown" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>If You Have To Ask</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/16/if-you-have-to-ask.html"/>
+    <id>http://www.manvsmagic.com/2014/04/16/if-you-have-to-ask.html</id>
+    <published>2014-04-16T13:09:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/if-you-have-to-ask_manvsmagic.png" alt="if you have to ask" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Male Enhancement</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/14/male-enhancement.html"/>
+    <id>http://www.manvsmagic.com/2014/04/14/male-enhancement.html</id>
+    <published>2014-04-14T13:30:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/male-enhancement_manvsmagic.png" alt="Male Enhancement" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Haunting</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/09/haunting.html"/>
+    <id>http://www.manvsmagic.com/2014/04/09/haunting.html</id>
+    <published>2014-04-09T13:09:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/haunting_manvsmagic.png" alt="Nostalgia" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Nostalgia</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/07/nostalgia.html"/>
+    <id>http://www.manvsmagic.com/2014/04/07/nostalgia.html</id>
+    <published>2014-04-07T13:38:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/nostalgia_manvsmagic.png" alt="Nostalgia" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Weekends with Daddy</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/04/02/weekends-with-daddy.html"/>
+    <id>http://www.manvsmagic.com/2014/04/02/weekends-with-daddy.html</id>
+    <published>2014-04-02T13:09:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/weekends-with-daddy_manvsmagic.png" alt="Weekends with daddy" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Happy Birthday Son</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/31/happy-birthday-son.html"/>
+    <id>http://www.manvsmagic.com/2014/03/31/happy-birthday-son.html</id>
+    <published>2014-03-31T13:11:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/happy-birthday-son_manvsmagic.png" alt="Happy Birthday Son" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Trying Times</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/26/trying-times.html"/>
+    <id>http://www.manvsmagic.com/2014/03/26/trying-times.html</id>
+    <published>2014-03-26T12:47:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/trying-times_manvsmagic.png" alt="Trying times" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Oh, The Places We'll Go</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/24/oh-the-places-we-will-go.html"/>
+    <id>http://www.manvsmagic.com/2014/03/24/oh-the-places-we-will-go.html</id>
+    <published>2014-03-24T06:32:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/oh-the-places-well-go_manvsmagic.png" alt="Oh, the places we'll go!" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Spoilers</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/19/spoilers.html"/>
+    <id>http://www.manvsmagic.com/2014/03/19/spoilers.html</id>
+    <published>2014-03-19T18:39:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/spoilers_manvsmagic.png" alt="Spoiler alert" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>The Future's So Bright I Need Sunglasses</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/17/future-so-bright-i-need-sunglasses.html"/>
+    <id>http://www.manvsmagic.com/2014/03/17/future-so-bright-i-need-sunglasses.html</id>
+    <published>2014-03-17T19:34:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/the-futures-so-bright-i-need-sunglasses_manvsmagic.png" alt="The light was blinding my eyes." /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Along Came A Spider</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/12/along-came-a-spider.html"/>
+    <id>http://www.manvsmagic.com/2014/03/12/along-came-a-spider.html</id>
+    <published>2014-03-12T19:23:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/along-came-a-spider_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>One Man's Thrash is Another Man's Pleasure</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html"/>
+    <id>http://www.manvsmagic.com/2014/03/10/one-man-s-thrash-is-another-man-s-pleasure.html</id>
+    <published>2014-03-10T11:41:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/one-mans-thrash-is-another-mans-pleasure_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>The Reason It's Such A Big Deal</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/06/the-reason-its-such-a-big-deal.html"/>
+    <id>http://www.manvsmagic.com/2014/03/06/the-reason-its-such-a-big-deal.html</id>
+    <published>2014-03-06T11:03:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/the-reason-its-such-a-big-deal_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Tuesdays</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/03/04/tuesdays.html"/>
+    <id>http://www.manvsmagic.com/2014/03/04/tuesdays.html</id>
+    <published>2014-03-04T10:26:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/tuesdays_manvsmagic.png" alt="Tuesdays" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Lovers Quarrel</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/02/28/loversquarrel.html"/>
+    <id>http://www.manvsmagic.com/2014/02/28/loversquarrel.html</id>
+    <published>2014-02-28T13:22:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/lovers-quarrel_manvsmagic.png" alt="Face your Fears" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Face Your Fears</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/02/22/faceyourfears.html"/>
+    <id>http://www.manvsmagic.com/2014/02/22/faceyourfears.html</id>
+    <published>2014-02-22T07:26:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/face-your-fears_manvsmagic.png" alt="Face your Fears" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Verification</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/02/21/verification.html"/>
+    <id>http://www.manvsmagic.com/2014/02/21/verification.html</id>
+    <published>2014-02-21T09:52:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/verification_manvsmagic.png" alt="verification" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Learned It On The Playground</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/02/20/ontheplayground.html"/>
+    <id>http://www.manvsmagic.com/2014/02/20/ontheplayground.html</id>
+    <published>2014-02-20T07:23:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/learned-it-on-the-playground_manvsmagic.png" alt="School" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Officer</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/02/17/officer.html"/>
+    <id>http://www.manvsmagic.com/2014/02/17/officer.html</id>
+    <published>2014-02-17T13:24:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/officer_manvsmagic.png" alt="Officer" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Job Hunt</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/02/16/jobhunt.html"/>
+    <id>http://www.manvsmagic.com/2014/02/16/jobhunt.html</id>
+    <published>2014-02-16T13:25:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/job-hunt_manvsmagic.png" alt="Job Hunt" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Getting Old Sucks</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/02/15/oldsucks.html"/>
+    <id>http://www.manvsmagic.com/2014/02/15/oldsucks.html</id>
+    <published>2014-02-15T13:24:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/getting-old-sucks_manvsmagic.png" alt="Getting Old Sucks" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Granny's Wish</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/02/14/granny.html"/>
+    <id>http://www.manvsmagic.com/2014/02/14/granny.html</id>
+    <published>2014-02-14T13:24:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/grannys-wish_manvsmagic.png" alt="Granny's Wish" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Feeling It</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/02/13/feeling-it-comic.html"/>
+    <id>http://www.manvsmagic.com/2014/02/13/feeling-it-comic.html</id>
+    <published>2014-02-14T04:54:00Z</published>
+    <updated>2014-07-22T23:58:35-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/feeling-it_manvsmagic.png" alt="FeelingIt" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
