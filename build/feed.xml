@@ -4,10 +4,22 @@
   <id>http://www.manvsmagic.com/</id>
   <link href="http://www.manvsmagic.com/"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-08-11T12:49:00Z</updated>
+  <updated>2014-08-13T13:18:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>The Good Old Days</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/08/13/the-good-old-days.html"/>
+    <id>http://www.manvsmagic.com/2014/08/13/the-good-old-days.html</id>
+    <published>2014-08-13T13:18:00Z</published>
+    <updated>2014-08-13T07:22:12-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/the-good-old-days_manvsmagic.png" alt="The Good Old Days" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Dogpocalypse</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/08/11/dogpocalypse.html"/>
