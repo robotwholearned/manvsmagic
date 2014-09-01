@@ -74,46 +74,6 @@ img
 { 
 	text-decoration: underline; 
 }
-#slideout {
-	position: fixed;
-	top: 40px;
-	left: 0;
-	width: 35px;
-	padding: 12px 0;
-	text-align: center;
-	background: #6DAD53;
-	@include transition-duration(0.3s);
-	/*@include border-radius(0 5px 5px 0);*/
-}
-#slideout_inner {
-	position: fixed;
-	top: 40px;
-	left: -$slide-out-width;
-	background: #6DAD53;
-	width: 200px;
-	padding: 25px;
-	height: 130px;
-	text-align: left;
-	@include transition-duration(0.3s);
-	/*@include border-radius(0 0 5px 0);*/
-}
-#slideout_inner textarea {
-	width: 190px;
-	height: 100px;
-	margin-bottom: 6px;
-}
-#slideout:hover 
-{
-	left: $slide-out-width;
-}
-#slideout:hover #slideout_inner 
-{
-	left: 0;
-}
-.slideout-icon 
-{ 
-	font-size: 30px; 
-}
 .font-awesome-link
 {
 	text-decoration: none; 
