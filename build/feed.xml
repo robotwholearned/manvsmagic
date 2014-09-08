@@ -4,16 +4,28 @@
   <id>http://www.manvsmagic.com/</id>
   <link href="http://www.manvsmagic.com/"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-09-03T13:33:00Z</updated>
+  <updated>2014-09-08T13:39:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Cool Cops Play By The Rules</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/09/08/cool-cops-play-by-the-rules.html"/>
+    <id>http://www.manvsmagic.com/2014/09/08/cool-cops-play-by-the-rules.html</id>
+    <published>2014-09-08T13:39:00Z</published>
+    <updated>2014-09-08T07:43:56-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/cool-cops-play-by-the-rules_manvsmagic.png" alt="Cool Cops Play By The Rules" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>I'm Trying My Best, Son</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/09/03/im-trying-my-best-son.html"/>
     <id>http://www.manvsmagic.com/2014/09/03/im-trying-my-best-son.html</id>
     <published>2014-09-03T13:33:00Z</published>
-    <updated>2014-09-03T07:44:29-06:00</updated>
+    <updated>2014-09-08T07:40:01-06:00</updated>
     <author>
       <name>ManVsMagic</name>
     </author>
