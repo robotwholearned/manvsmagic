@@ -4,10 +4,22 @@
   <id>http://www.manvsmagic.com/</id>
   <link href="http://www.manvsmagic.com/"/>
   <link href="http://www.manvsmagic.com/feed.xml" rel="self"/>
-  <updated>2014-09-15T06:01:00Z</updated>
+  <updated>2014-09-17T09:59:00Z</updated>
   <author>
     <name>ManVsMagic</name>
   </author>
+  <entry>
+    <title>Fantastic Voyage</title>
+    <link rel="alternate" href="http://www.manvsmagic.com/2014/09/17/fantastic-voyage.html"/>
+    <id>http://www.manvsmagic.com/2014/09/17/fantastic-voyage.html</id>
+    <published>2014-09-17T09:59:00Z</published>
+    <updated>2014-09-17T04:00:29-06:00</updated>
+    <author>
+      <name>ManVsMagic</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/images/fantastic-voyage_manvsmagic.png" alt="Fantastic Voyage" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Like White Elephants</title>
     <link rel="alternate" href="http://www.manvsmagic.com/2014/09/15/like-white-elephants.html"/>
