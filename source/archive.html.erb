@@ -3,11 +3,11 @@ title: Archive
 ---
 <h1>Archive</h1> 
 <% blog.articles.each do |article| %> 
-<article> 
+<main role="main"> 
 	<h1 class="archive">
 		<% link_to(article, class: "post-title") do %>
 			<%=article.title %> - <%= article.date.strftime('%b %e, %Y') %>
 		<% end %>
 	</h1> 
-</article> 
+</main> 
 <% end %>

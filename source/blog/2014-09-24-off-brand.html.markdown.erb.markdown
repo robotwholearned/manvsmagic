@@ -3,6 +3,7 @@ title: Off Brand
 date: 2014-09-24 00:27 MDT
 tags:
 ---
+<h1><%=current_page.data.title %> - <%=DateTime.parse(current_page.data.date).strftime('%A %b %e, %Y') %></h1>
 <img src="/images/off-brand_manvsmagic.png" alt="Off Brand" />
 
 

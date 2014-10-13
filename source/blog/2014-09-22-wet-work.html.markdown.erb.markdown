@@ -3,5 +3,6 @@ title: Wet Work
 date: 2014-09-22 02:50 MDT
 tags:
 ---
+<h1><%=current_page.data.title %> - <%=DateTime.parse(current_page.data.date).strftime('%A %b %e, %Y') %></h1>
 <img src="/images/wet-work_manvsmagic.png" alt="Wet Work" />
 
